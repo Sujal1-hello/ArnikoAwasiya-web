@@ -11,7 +11,7 @@ body {
 }
 
 .cp-nav {
-    background: #436745;
+    background: #435767;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -31,7 +31,7 @@ body {
 }
 
 .cp-breadcrumb {
-    background: rgb(11, 167, 61);
+    background: rgb(20, 138, 229);
     color: #000000;
     padding: 10px 32px;
     font-size: 14px;
